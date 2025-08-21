@@ -1,0 +1,15 @@
+{
+  "name": "fs-homework",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/task1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "task1": "node src/task1.js",
+    "task2": "node src/task2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
