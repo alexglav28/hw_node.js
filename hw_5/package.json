@@ -1,0 +1,14 @@
+{
+  "name": "hw_5",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "auth": "node src/authServer.js",
+    "error": "node src/errorServer.js",
+    "crud": "node src/crudServer.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

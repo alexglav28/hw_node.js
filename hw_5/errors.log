@@ -1,0 +1,6 @@
+[2025-09-01T14:49:18.239Z] GET / - Error: Test error for logging
+[2025-09-01T14:49:18.387Z] GET /favicon.ico - Error: Test error for logging
+[2025-09-01T15:10:03.211Z] GET / - Error: Test error for logging
+[2025-09-01T15:10:03.274Z] GET /.well-known/appspecific/com.chrome.devtools.json - Error: Test error for logging
+[2025-09-01T15:10:31.811Z] GET / - Error: Test error for logging
+[2025-09-01T15:10:32.669Z] GET / - Error: Test error for logging
