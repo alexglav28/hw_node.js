@@ -10,6 +10,6 @@ export const sequelize = new Sequelize(
 );
 
 export async function testConnection() {
-  try { await sequelize.authenticate(); console.log('✅ DB connected'); }
+  try { await sequelize.authenticate(); console.log(' DB connected'); }
   catch (e) { console.error(' DB connection error:', e.message); }
 }
